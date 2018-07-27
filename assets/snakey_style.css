@@ -1,0 +1,47 @@
+
+body{
+    background-color: #4f4c4e;
+}
+
+
+.layout{
+
+    display: inline-block;
+}
+
+
+aside {
+    padding-right: 20%;
+    float: right;
+}
+
+
+
+
+
+
+
+canvas{
+
+    border: 2px solid #ff054b;
+    border-radius: 10px;
+    background-image: url("https://s3.envato.com/files/103528217/Game%20Background-5.png ");
+}
+
+h1{
+   padding-left: 25px;
+   color: #49ccff;
+
+}
+
+.h3{
+    float: right;
+    color: #49ccff;
+
+
+}
+
+p {
+    color: #49ccff;
+
+}
